@@ -1,13 +1,13 @@
 "Journalist", "Organization", "Public Key"
-"Caroline Barghout"
-"Zach Dubinsky"
-"Anita Elash"
-"Pete Evans"
-"Amber Hildebrandt" 
-John Lancaster 
-Jeremy McDonald 
-John Nicol
-Julian Sher 
-Vanmala Subramaniam 
+"Caroline Barghout", "CBC", https://secure.cbc.ca/public-key/Caroline-Barghout-pub.asc
+"Zach Dubinsky", "CBC", https://secure.cbc.ca/public-key/Zach-Dubinsky-pub.asc
+"Anita Elash", "CBC", https://secure.cbc.ca/public-key/Anita-Elash-pub.asc
+"Pete Evans", "CBC", https://secure.cbc.ca/public-key/Pete-Evans-pub.asc
+"Amber Hildebrandt", "CBC", https://secure.cbc.ca/public-key/Amber-Hildebrandt-pub.asc
+"John Lancaster", "CBC", https://secure.cbc.ca/public-key/John-Lancaster-pub.asc
+"Jeremy McDonald", "CBC", https://secure.cbc.ca/public-key/J-McDonald-pub.asc
+"John Nicol", "CBC", https://secure.cbc.ca/public-key/John-Nicol-pub.asc
+"Julian Sher", "CBC", https://secure.cbc.ca/public-key/Julian-Sher-pub.asc
+"Vanmala Subramaniam", "CBC", https://secure.cbc.ca/public-key/Vanmala-Subramaniam-pub.asc
 
 
